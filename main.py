@@ -60,6 +60,7 @@ while True:
         break
 
     pyb.delay(1000)
+    l.destroy()
 
 
 # PLAY SOUND WHEN FINISHED
